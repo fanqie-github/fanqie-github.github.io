@@ -7,6 +7,12 @@
     "warningText": "o提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "lives": [
         {
+            "name": "jsltIPTV",
+            "type": 0,
+            "url": "./lives/jsltiptv.txt",
+            "epg": ""
+        },
+        {
             "name": "o",
             "type": 0,
             "url": "./lives/o.txt",
