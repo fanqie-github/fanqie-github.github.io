@@ -7,7 +7,7 @@
     "warningText": "o提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "lives": [
         {
-            "name": "jsltIPTV",
+            "name": "江苏联通IPTV",
             "type": 0,
             "url": "./lives/jsltiptv.txt",
             "epg": ""
