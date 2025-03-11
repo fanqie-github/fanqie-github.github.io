@@ -22,6 +22,15 @@
       "filterable": 1
     },
     {
+      "key": "AIvin",
+      "name": "AIvin",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "🔞呱哥-AIvin",
       "name": "🔞呱哥-AIvin",
       "type": 0,
