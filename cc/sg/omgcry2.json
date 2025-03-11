@@ -22,18 +22,6 @@
       "filterable": 1
     },
     {
-      "name": "奶香香资源",
-      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "group": "默认",
-      "search": 1,
-      "isActive": true,
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "id": "9acba522-0bef-4a60-91d9-31fa5e14fdb7"
-    },
-    {
       "key": "🔞呱哥-AIvin",
       "name": "🔞呱哥-AIvin",
       "type": 0,
